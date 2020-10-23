@@ -1,4 +1,4 @@
-(defproject com.nomistech/orgmode "0.8.0"
+(defproject com.nomistech/orgmode "0.9.0-SNAPSHOT"
   :description "Org-mode parser"
   :url "https://github.com/simon-katz/orgmode"
   :license {:name "Eclipse Public License"
