@@ -10,4 +10,4 @@ pom.xml
 .lein-plugins
 *~
 .cpcache/*
-  
+.nrepl-port
